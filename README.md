@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Eduardo,
-my skills are micro-services and API. Expertize in WhatsApp Automation
+my skills are micro-services and API. Expertize in WhatsApp Automation an IA Developer
 
 For business contact call me on whatsapp </br>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=554396611437&text=Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20suporte%20da%20API%20MyZAP" target="_blank"><img title="WhatsApp do Suporte" height="50" width="190" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
